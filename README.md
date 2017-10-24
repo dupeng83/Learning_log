@@ -14,6 +14,8 @@
 
 `pip install django-bootstrap3`
 
+`pip install dj_static`
+
 `python manage.py migrate`
 
 `python manage.py runserver`
