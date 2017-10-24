@@ -20,6 +20,8 @@
 
 `python manage.py runserver`
 
-用户注册登录之后可以创建“topic”，每个topic下面可以添加若干entry
+用户注册登录之后可以创建“topic”（例如“下棋”，“攀岩”），每个“topic”下面可以添加若干“entry”（例如下棋具体学到了哪些内容）。
+
+只能查看自己创建的“topic”和“entry”，不能看别人的。
 
 部署[在heroku上](https://guarded-ridge-21841.herokuapp.com/)
